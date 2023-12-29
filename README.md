@@ -1,2 +1,3 @@
-# markdown-pic
-markdown图床（自用）
+# steamdeck
+* 安装插件商店
+* 安装clash
